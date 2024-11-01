@@ -3,7 +3,7 @@ English to Hindi Neural Translation Model
 
 This repository contains a simple web application built with Flask that utilizes a pre-trained neural translation model to translate English sentences into Hindi.
 
-Key Features
+##Key Features
 
 Pre-trained Model: The application leverages the Helsinki-NLP/opus-mt-en-hi model, a powerful translation model trained on a large dataset of English-Hindi parallel text.
 
